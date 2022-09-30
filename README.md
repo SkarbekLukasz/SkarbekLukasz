@@ -21,10 +21,11 @@ Here are some ideas to get you started:
     alt="skarbeklukasz"
   />
 </p>
-
-- 🌱 I’m currently learning **JavaScript, Docker and Linux!** - 💬 Ask me about
-**Java and Spring framework** - 📫 How to reach me **l.skarbek@wp.pl**
-
+<ul>
+  <li>🌱 I’m currently learning: JavaScript, Docker and Linux!</li>
+  <li>💬 Ask me about: Java and Spring framework</li>
+  <li>📫 How to reach me: <a href="mailto:l.skarbek@wp.pl">mail</a></li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/lukasz-skarbek" target="blank"
