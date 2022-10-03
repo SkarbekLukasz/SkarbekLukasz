@@ -21,6 +21,9 @@ Here are some ideas to get you started:
     alt="skarbeklukasz"
   />
 </p>
+<p align="left">
+<img src="https://www.codewars.com/users/Skarbek%C5%81ukasz/badges/small" alt="Codewars badge"/>
+</p>
 <ul>
   <li>🌱 I’m currently learning: JavaScript, Docker and Linux!</li>
   <li>💬 Ask me about: Java and Spring framework</li>
