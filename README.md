@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Luke</h1>
+<h1 align="center">Hi, I'm Luke</h1>
 <h3 align="center">Self-taught Java Backend Developer</h3>
 
 <p align="left">
@@ -61,6 +61,8 @@ Here are some ideas to get you started:
               height="40"
             />
           </a>
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+      <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     </div>
     <div>
         <p>Frontend: </p>
@@ -138,6 +140,7 @@ Here are some ideas to get you started:
           height="40"
         />
       </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   </div>
   <div>
     <p>Cloud: </p>
