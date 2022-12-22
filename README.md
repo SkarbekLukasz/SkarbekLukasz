@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <ul>
   <li>🌱 I’m currently learning: JavaScript, Docker and Linux!</li>
   <li>💬 Ask me about: Java and Spring framework</li>
-  <li>📫 How to reach me: <a href="mailto:l.skarbek@wp.pl">mail</a></li>
+  <li>📫 How to reach me: <a href="mailto:l.skarbek92@gmail.com">mail</a></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
