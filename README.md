@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   />
 </p>
 <p align="left">
-<img src="https://www.codewars.com/users/Skarbek%C5%81ukasz/badges/small" alt="Codewars badge"/>
+<a href="https://www.codewars.com/users/Skarbek%C5%81ukasz"><img src="https://www.codewars.com/users/Skarbek%C5%81ukasz/badges/small" alt="Codewars badge"/></a>
 </p>
 <ul>
   <li>🌱 I’m currently learning: JavaScript, Docker and Linux!</li>
