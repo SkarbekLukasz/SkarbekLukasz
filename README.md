@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.codewars.com/users/Skarbek%C5%81ukasz"><img src="https://www.codewars.com/users/Skarbek%C5%81ukasz/badges/small" alt="Codewars badge"/></a>
 </p>
 <ul>
-  <li>🌱 I’m currently learning: PostgreSQL, Docker and Angular!</li>
+  <li>🌱 I’m currently learning: Multithreading, Docker and Angular!</li>
   <li>💬 Ask me about: Java and Spring framework</li>
   <li>📫 How to reach me: <a href="mailto:l.skarbek92@gmail.com">mail</a></li>
 </ul>
